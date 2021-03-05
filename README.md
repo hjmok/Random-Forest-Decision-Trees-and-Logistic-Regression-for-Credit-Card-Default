@@ -1,4 +1,4 @@
-# RandomForest_DecisionTrees_and_LogisticRegression-for-Credit-Card-Default
+# RandomForest, DecisionTrees, and LogisticRegression for Credit Card Default
 
 For this project, three Classifiers are compared when trained a Credit Card Defaulting dataset. The classifiers are:
 
