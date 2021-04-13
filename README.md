@@ -9,7 +9,7 @@ For this project, three Classifiers are compared when trained a Credit Card Defa
 3) Decision Trees
 
 ## Dataset and Library
-Scikit Learn's LogisticRegression, RandomForestClassifier, and DecisionTreeClassifier classes were used create each model.
+Scikit Learn's and PySpark's LogisticRegression, RandomForestClassifier, and DecisionTreeClassifier classes were used create each model.
 The dataset consisted of 30000 rows by 24 columns of client information and payment history, including the label which was the whether they defaulted on the next payment or not. However, the label is unbalanced with 23364 cases of payment and 6636 cases of defaulting.
 
 Please find the dataset from the University of California Irvine's Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
